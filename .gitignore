@@ -1,0 +1,24 @@
+# --- Python / venv ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# --- VS Code ---
+.vscode/
+
+
+AIT Alert Data Set/
+
+
+*.zip
+
+# Outputs / artifacts 
+output/
+hf_out/
+hf_out_imbal_200k/
+
+# Logs / temp 
+*.log
+*.tmp
+.DS_Store
