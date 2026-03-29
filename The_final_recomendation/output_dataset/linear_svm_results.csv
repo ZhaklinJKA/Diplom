@@ -1,0 +1,2 @@
+model,macro_f1,weighted_f1,text_features,numeric_count,categorical_count
+LinearSVC_clean_baseline,0.4958140330062296,0.9186866214334882,full_log,12,3
